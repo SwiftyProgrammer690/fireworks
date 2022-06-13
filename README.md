@@ -1,6 +1,7 @@
 # 🎆🎆🎆 fireworks 🎆🎆🎆
 
 🎆 Fireworks. A Python Package used for getting data from Github! Also maintained on Github! 🎆
+Maintained by @SwiftyProgrammer690 on github, @SwaritChoudhari on replit.com
 
 # Getting Started! 🚀🚀🚀
 
