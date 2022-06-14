@@ -22,10 +22,15 @@ For now, it only has two main capabilities, but you can make it better because, 
 | ------------- | ------------- |
 | `get_org_repositories(org)`  | Get an organizations repos  |
 | `get_user_repositories(user)`  | Get an users repos  |
+| `get_user(user)` | Get a user profile |
+| `get_org(org)` | Get an organizations profile |
 
 # Contributing! 🤝🤝🤝
 
 We would love the extra support! Feel free to open a pull request!
+To start contributing to this repo, keep in mind, the main code is in the src/source.py and I will create an alike pull request to yours so I can
+update the __pycache__
+Also read the CONTRIBUTING.md page!
 
 # Compare:
 
