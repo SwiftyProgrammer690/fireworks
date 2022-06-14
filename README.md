@@ -14,6 +14,7 @@ Maintained by @SwiftyProgrammer690 on github, @SwaritChoudhari on replit.com
 
 # Getting Started! 🚀🚀🚀
 
+Prequisteries: `pip install urllib`
 First, download the code and then unzip it:
 
 ![image](https://user-images.githubusercontent.com/68472469/173430910-b505be5e-bdab-4e12-9fa1-96bbea5397a7.png)
