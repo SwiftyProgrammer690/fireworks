@@ -15,10 +15,10 @@ Now that you have the necessary files to work with this project, let's see what 
 
 # Using it! ⚒⚒⚒
 
-First at the beginning of your new python file, add `from src.source import *` to load the files for the package!
+First at the beginning of your new python file, add `from src.source import *` to load the files for the package! (If that does not work, please use `pwd` and check where you are and `ls` to know where you should go with `cd`)
 For now, it only has two main capabilities, but you can make it better because, after all, this is an open source project!
 
-| Name  | What it does |
+| Name(For usage)  | What it does |
 | ------------- | ------------- |
 | `get_org_repositories(org)`  | Get an organizations repos  |
 | `get_user_repositories(user)`  | Get an users repos  |
