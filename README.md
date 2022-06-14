@@ -7,7 +7,7 @@
 ![maintained - yes](https://img.shields.io/badge/maintained-yes-blue)
 [![contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue)](/CONTRIBUTING.md "Go to contributions doc")
 [![GitHub tag](https://img.shields.io/github/tag/SwiftyProgrammer690/fireworks?include_prereleases=&sort=semver&color=green)](https://github.com/SwiftyProgrammer690/fireworks/releases/)
-[![License](https://img.shields.io/badge/License-MIT-green)](#license)
+[![License](https://img.shields.io/badge/License-MIT-green)](#licence)
 
 🎆 Fireworks. A Python Package used for getting data from Github! Also maintained on Github! 🎆
 Maintained by @SwiftyProgrammer690 on github, @SwaritChoudhari on replit.com
