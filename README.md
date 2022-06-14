@@ -1,10 +1,20 @@
 # 🎆 fireworks 🎆
 
+![image](https://user-images.githubusercontent.com/68472469/173641512-c4836227-23bc-414b-937e-5df5ec34e855.png)
+
+![dependency - fireworks](https://img.shields.io/badge/dependency-fireworks-blue?logo=python&logoColor=white)
+[![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
+![maintained - yes](https://img.shields.io/badge/maintained-yes-blue)
+[![contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue)](/CONTRIBUTING.md "Go to contributions doc")
+[![GitHub tag](https://img.shields.io/github/tag/SwiftyProgrammer690/fireworks?include_prereleases=&sort=semver&color=green)](https://github.com/SwiftyProgrammer690/fireworks/releases/)
+[![License](https://img.shields.io/badge/License-MIT-green)](#licence)
+
 🎆 Fireworks. A Python Package used for getting data from Github! Also maintained on Github! 🎆
 Maintained by @SwiftyProgrammer690 on github, @SwaritChoudhari on replit.com
 
 # Getting Started! 🚀🚀🚀
 
+Prequisteries: `pip install urllib`
 First, download the code and then unzip it:
 
 ![image](https://user-images.githubusercontent.com/68472469/173430910-b505be5e-bdab-4e12-9fa1-96bbea5397a7.png)
@@ -22,10 +32,15 @@ For now, it only has two main capabilities, but you can make it better because, 
 | ------------- | ------------- |
 | `get_org_repositories(org)`  | Get an organizations repos  |
 | `get_user_repositories(user)`  | Get an users repos  |
+| `get_user(user)` | Get a user profile |
+| `get_org(org)` | Get an organizations profile |
 
 # Contributing! 🤝🤝🤝
 
 We would love the extra support! Feel free to open a pull request!
+To start contributing to this repo, keep in mind, the main code is in the src/source.py and I will create an alike pull request to yours so I can
+update the __pycache__
+Also read the CONTRIBUTING.md page!
 
 # Compare:
 
@@ -38,4 +53,4 @@ If you run into any problems, please open an issue on github and I will get back
 
 # Licence
 
-MIT
+Released under [MIT](/LICENSE) by [@SwiftyProgrammer690](https://github.com/SwiftyProgrammer690).
