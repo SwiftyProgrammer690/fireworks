@@ -29,7 +29,7 @@ We would love the extra support! Feel free to open a pull request!
 
 # Compare:
 
-<div style="height: 0; padding-bottom: calc(43.46%); position:relative; width: 100%;"><iframe allow="autoplay; gyroscope;" allowfullscreen height="100%" referrerpolicy="strict-origin" src="https://www.kapwing.com/e/62a7d5af0f432d00c3ff8bd0" style="border:0; height:100%; left:0; overflow:hidden; position:absolute; top:0; width:100%" title="Embedded content made on Kapwing" width="100%"></iframe></div><p style="font-size: 12px; text-align: right;">Video edited on <a href="https://www.kapwing.com/video-editor">Kapwing</a></p>
+![final_62a7d5af0f432d00c3ff8bd0_530542](https://user-images.githubusercontent.com/68472469/173475371-efb45b14-dcea-4c12-a998-213fd87e134f.gif)
 
 
 # Support
