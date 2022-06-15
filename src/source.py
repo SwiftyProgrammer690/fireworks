@@ -31,3 +31,27 @@ def get_org(org):
     response = urllib.request.urlopen(request)
     data = json.loads(response.read().decode())
     return data
+
+# Get all the github emojis cuz why not?
+def get_emoji():
+    url = 'https://api.github.com/emojis'
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = json.loads(response.read().decode())
+    return data
+
+# Get a repos branches
+def get_repo_branches(user, repo):
+    url = 'https://api.github.com/repos/' + user + '/' + repo + '/branches'
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = json.loads(response.read().decode())
+    return data
+
+# Get organizations projects
+def get_org_projects(org):
+    url = 'https://api.github.com/orgs/' + org + '/projects'
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = json.loads(response.read().decode())
+    return data
