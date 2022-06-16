@@ -2,12 +2,13 @@
 
 ![image](https://user-images.githubusercontent.com/68472469/173641512-c4836227-23bc-414b-937e-5df5ec34e855.png)
 
-![dependency - fireworks](https://img.shields.io/badge/dependency-fireworks-blue?logo=python&logoColor=white)
-[![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white)](https://python.org "Go to Python homepage")
-![maintained - yes](https://img.shields.io/badge/maintained-yes-blue)
-[![contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue)](/CONTRIBUTING.md "Go to contributions doc")
-[![GitHub tag](https://img.shields.io/github/tag/SwiftyProgrammer690/fireworks?include_prereleases=&sort=semver&color=green)](https://github.com/SwiftyProgrammer690/fireworks/releases/)
-[![License](https://img.shields.io/badge/License-MIT-green)](#licence)
+![build - passing](https://img.shields.io/badge/builds-passing-brightgreen?style=plastic&logo=github)
+![dependency - fireworks](https://img.shields.io/badge/dependency-fireworks-blue?logo=python&logoColor=white&style=plastic)
+![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white&style=plastic&logo=appveyor)
+![maintained - yes](https://img.shields.io/badge/maintained-yes-blue?style=plastic&logo=replit)
+[![contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue?style=plastic&logo=replit)](/CONTRIBUTING.md "Go to contributions doc")
+[![GitHub tag](https://img.shields.io/github/tag/SwiftyProgrammer690/fireworks?include_prereleases=&sort=semver&color=green&style=plastic&logo=github)](https://github.com/SwiftyProgrammer690/fireworks/releases/)
+[![License](https://img.shields.io/badge/License-MIT-green?style=plastic&logo=github)](#licence)
 
 🎆 Fireworks. A Python Package used for getting data from Github! Also maintained on Github! 🎆
 Maintained by @SwiftyProgrammer690 on github, @SwaritChoudhari on replit.com
@@ -41,6 +42,9 @@ For now, it only has seven main capabilities, but you can make it better because
 | `get_public_gists()` | Get the public gists |
 | `get_gist(gist_id)` | Get a specific gist |
 | `get_user_gists(user)` | Get a users gists |
+| `zen()` | Get a random quote from github's API |
+| `octocat()` | Get a random quote from github's octocat! |
+| `check_repo_health(user, repo)` | Get a repos health(Does it have... README, Licence, Code of conduct, Contributing guidelines?) |
 
 Once you are done writing your program, make sure to run it! ;)
 
