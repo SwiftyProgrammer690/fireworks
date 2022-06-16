@@ -37,6 +37,10 @@ For now, it only has seven main capabilities, but you can make it better because
 | `get_emoji()` | Gets all the available github emojis and images |
 | `get_repo_branches(user, repo)` | Gets all the branches of a repository |
 | `get_org_projects(org)` | Get organizations projects |
+| `get_repo_pulls(user, repo)` | Get a repos pulls requests |
+| `get_public_gists()` | Get the public gists |
+| `get_gist(gist_id)` | Get a specific gist |
+| `get_user_gists(user)` | Get a users gists |
 
 Once you are done writing your program, make sure to run it! ;)
 
