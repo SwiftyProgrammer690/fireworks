@@ -1,0 +1,43 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "anonymouse-cmd",
+      "name": "Mousie!",
+      "avatar_url": "https://avatars.githubusercontent.com/u/79412339?v=4",
+      "profile": "https://github.com/anonymouse-cmd",
+      "contributions": [
+        "design"
+      ]
+    },
+    {
+      "login": "SwiftyProgrammer690",
+      "name": "Swarit Choudhari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68472469?v=4",
+      "profile": "https://my-web.swaritchoudhari.repl.co/",
+      "contributions": [
+        "code",
+        "question"
+      ]
+    },
+    {
+      "login": "all-contributors",
+      "name": "All Contributors",
+      "avatar_url": "https://avatars.githubusercontent.com/u/46410174?v=4",
+      "profile": "https://allcontributors.org",
+      "contributions": [
+        "tool"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "fireworks",
+  "projectOwner": "SwiftyProgrammer690",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
