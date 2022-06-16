@@ -13,6 +13,16 @@
       "contributions": [
         "design"
       ]
+    },
+    {
+      "login": "SwiftyProgrammer690",
+      "name": "Swarit Choudhari",
+      "avatar_url": "https://avatars.githubusercontent.com/u/68472469?v=4",
+      "profile": "https://my-web.swaritchoudhari.repl.co/",
+      "contributions": [
+        "code",
+        "question"
+      ]
     }
   ],
   "contributorsPerLine": 7,
