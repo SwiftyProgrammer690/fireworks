@@ -55,3 +55,35 @@ def get_org_projects(org):
     response = urllib.request.urlopen(request)
     data = json.loads(response.read().decode())
     return data
+
+# Get a repos pulls requests
+def get_repo_pulls(user, repo):
+    url = 'https://api.github.com/repos/' + user + '/' + repo + '/pulls'
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = json.loads(response.read().decode())
+    return data
+
+# Get the public gists
+def get_public_gists():
+    url = 'https://api.github.com/gists/public'
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = json.loads(response.read().decode())
+    return data
+
+# Get a specific gist
+def get_gist(gist_id):
+    url = 'https://api.github.com/gists/' + gist_id
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = json.loads(response.read().decode())
+    return data
+
+# Get a users gists
+def get_user_gists(user):
+    url = 'https://api.github.com/users/' + user + '/gists'
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = json.loads(response.read().decode())
+    return data

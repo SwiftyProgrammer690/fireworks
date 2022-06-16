@@ -38,6 +38,8 @@ For now, it only has seven main capabilities, but you can make it better because
 | `get_repo_branches(user, repo)` | Gets all the branches of a repository |
 | `get_org_projects(org)` | Get organizations projects |
 
+Once you are done writing your program, make sure to run it! ;)
+
 # Contributing! 🤝🤝🤝
 
 We would love the extra support! Feel free to open a pull request!
