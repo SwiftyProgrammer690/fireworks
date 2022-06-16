@@ -87,3 +87,27 @@ def get_user_gists(user):
     response = urllib.request.urlopen(request)
     data = json.loads(response.read().decode())
     return data
+
+# Zen....
+def zen():
+    url = 'https://api.github.com/zen'
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = response.read().decode()
+    return data
+
+# Octocat....
+def octocat():
+    url = 'https://api.github.com/octocat'
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = response.read().decode()
+    return data
+
+# Get a repos health(Does it have... README, Licence, Code of conduct, Contributing guidelines?)
+def check_repo_health(user, repo):
+    url = 'https://api.github.com/repos/' + user + '/' + repo + '/community/profile'
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = json.loads(response.read().decode())
+    return data
