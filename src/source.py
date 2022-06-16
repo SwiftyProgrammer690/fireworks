@@ -111,3 +111,11 @@ def check_repo_health(user, repo):
     response = urllib.request.urlopen(request)
     data = json.loads(response.read().decode())
     return data
+
+# Get a repos langs
+def check_repo_lang(user, repo):
+    url = 'https://api.github.com/repos/' + user + '/' + repo + '/languages'
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = json.loads(response.read().decode())
+    return data

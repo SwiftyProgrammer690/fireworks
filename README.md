@@ -45,6 +45,7 @@ For now, it only has seven main capabilities, but you can make it better because
 | `zen()` | Get a random quote from github's API |
 | `octocat()` | Get a random quote from github's octocat! |
 | `check_repo_health(user, repo)` | Get a repos health(Does it have... README, Licence, Code of conduct, Contributing guidelines?) |
+| `check_repo_lang` | Get a repositories languages |
 
 Once you are done writing your program, make sure to run it! ;)
 
