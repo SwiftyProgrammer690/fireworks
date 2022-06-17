@@ -119,3 +119,19 @@ def check_repo_lang(user, repo):
     response = urllib.request.urlopen(request)
     data = json.loads(response.read().decode())
     return data
+
+# Get a repos tags
+def check_repo_tag(user, repo):
+    url = 'https://api.github.com/repos/' + user + '/' + repo + '/tags'
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = json.loads(response.read().decode())
+    return data
+
+# Get a repos topics
+def check_repo_topic(user, repo):
+    url = 'https://api.github.com/repos/' + user + '/' + repo + '/topics'
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = json.loads(response.read().decode())
+    return data
