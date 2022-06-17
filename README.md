@@ -1,6 +1,6 @@
 # 🎆 fireworks 🎆
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-3-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-4-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 ![image](https://user-images.githubusercontent.com/68472469/173641512-c4836227-23bc-414b-937e-5df5ec34e855.png)
@@ -86,6 +86,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/anonymouse-cmd"><img src="https://avatars.githubusercontent.com/u/79412339?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mousie!</b></sub></a><br /><a href="#design-anonymouse-cmd" title="Design">🎨</a></td>
     <td align="center"><a href="https://my-web.swaritchoudhari.repl.co/"><img src="https://avatars.githubusercontent.com/u/68472469?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Swarit Choudhari</b></sub></a><br /><a href="https://github.com/SwiftyProgrammer690/fireworks/commits?author=SwiftyProgrammer690" title="Code">💻</a> <a href="#question-SwiftyProgrammer690" title="Answering Questions">💬</a> <a href="https://github.com/SwiftyProgrammer690/fireworks/pulls?q=is%3Apr+reviewed-by%3ASwiftyProgrammer690" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#tool-all-contributors" title="Tools">🔧</a></td>
+    <td align="center"><a href="https://github.com/PythonPrashant"><img src="https://avatars.githubusercontent.com/u/68708518?v=4?s=100" width="100px;" alt=""/><br /><sub><b>code code code!</b></sub></a><br /><a href="#blog-PythonPrashant" title="Blogposts">📝</a></td>
   </tr>
 </table>
 
