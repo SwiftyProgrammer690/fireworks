@@ -30,7 +30,7 @@ Now that you have the necessary files to work with this project, let's see what 
 
 For the functions below to work, put them inside a print statement!
 First at the beginning of your new python file, add `from src.source import *` to load the files for the package! (If that does not work, please use `pwd` and check where you are and `ls` to know where you should go with `cd`)
-For now, it only has seven main capabilities, but you can make it better because, after all, this is an open source project!
+For now, it only has seventeen main capabilities, but you can make it better because, after all, this is an open source project!
 
 | Name(For usage)  | What it does |
 | ------------- | ------------- |
@@ -49,7 +49,7 @@ For now, it only has seven main capabilities, but you can make it better because
 | `octocat()` | Get a random quote from github's octocat! |
 | `check_repo_health(user, repo)` | Get a repos health(Does it have... README, Licence, Code of conduct, Contributing guidelines?) |
 | `check_repo_lang(user, repo)` | Get a repositories languages |
-| `check_repo_tag(user, repo) | Get a repositories tags |
+| `check_repo_tag(user, repo)` | Get a repositories tags |
 | `check_repo_topic(user, repo)` | Get a repositories topics |
 
 Once you are done writing your program, make sure to run it! ;)
