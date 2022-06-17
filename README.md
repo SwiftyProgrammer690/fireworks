@@ -9,8 +9,6 @@
 ![dependency - fireworks](https://img.shields.io/badge/dependency-fireworks-blue?logo=python&logoColor=white&style=plastic)
 ![Made with Python](https://img.shields.io/badge/Python->=3.6-blue?logo=python&logoColor=white&style=plastic&logo=appveyor)
 ![maintained - yes](https://img.shields.io/badge/maintained-yes-blue?style=plastic&logo=replit)
-[![contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue?style=plastic&logo=replit)](/CONTRIBUTING.md "Go to contributions doc")
-[![GitHub tag](https://img.shields.io/github/tag/SwiftyProgrammer690/fireworks?include_prereleases=&sort=semver&color=green&style=plastic&logo=github)](https://github.com/SwiftyProgrammer690/fireworks/releases/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=plastic&logo=github)](#licence)
 [![CodeQL](https://github.com/SwiftyProgrammer690/fireworks/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/SwiftyProgrammer690/fireworks/actions/workflows/codeql.yml)
 
