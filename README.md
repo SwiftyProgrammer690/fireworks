@@ -12,6 +12,7 @@
 [![contributions - welcome](https://img.shields.io/badge/contributions-welcome-blue?style=plastic&logo=replit)](/CONTRIBUTING.md "Go to contributions doc")
 [![GitHub tag](https://img.shields.io/github/tag/SwiftyProgrammer690/fireworks?include_prereleases=&sort=semver&color=green&style=plastic&logo=github)](https://github.com/SwiftyProgrammer690/fireworks/releases/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=plastic&logo=github)](#licence)
+[![CodeQL](https://github.com/SwiftyProgrammer690/fireworks/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/SwiftyProgrammer690/fireworks/actions/workflows/codeql.yml)
 
 🎆 Fireworks. A Python Package used for getting data from Github! Also maintained on Github! 🎆
 Maintained by @SwiftyProgrammer690 on github, @SwaritChoudhari on replit.com
@@ -82,7 +83,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
 <table>
   <tr>
     <td align="center"><a href="https://github.com/anonymouse-cmd"><img src="https://avatars.githubusercontent.com/u/79412339?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Mousie!</b></sub></a><br /><a href="#design-anonymouse-cmd" title="Design">🎨</a></td>
-    <td align="center"><a href="https://my-web.swaritchoudhari.repl.co/"><img src="https://avatars.githubusercontent.com/u/68472469?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Swarit Choudhari</b></sub></a><br /><a href="https://github.com/SwiftyProgrammer690/fireworks/commits?author=SwiftyProgrammer690" title="Code">💻</a> <a href="#question-SwiftyProgrammer690" title="Answering Questions">💬</a></td>
+    <td align="center"><a href="https://my-web.swaritchoudhari.repl.co/"><img src="https://avatars.githubusercontent.com/u/68472469?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Swarit Choudhari</b></sub></a><br /><a href="https://github.com/SwiftyProgrammer690/fireworks/commits?author=SwiftyProgrammer690" title="Code">💻</a> <a href="#question-SwiftyProgrammer690" title="Answering Questions">💬</a> <a href="https://github.com/SwiftyProgrammer690/fireworks/pulls?q=is%3Apr+reviewed-by%3ASwiftyProgrammer690" title="Reviewed Pull Requests">👀</a></td>
     <td align="center"><a href="https://allcontributors.org"><img src="https://avatars.githubusercontent.com/u/46410174?v=4?s=100" width="100px;" alt=""/><br /><sub><b>All Contributors</b></sub></a><br /><a href="#tool-all-contributors" title="Tools">🔧</a></td>
   </tr>
 </table>
