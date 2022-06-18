@@ -135,3 +135,11 @@ def check_repo_topic(user, repo):
     response = urllib.request.urlopen(request)
     data = json.loads(response.read().decode())
     return data
+
+# Get all the public repos
+def get_public_repo():
+    url = 'https://api.github.com/repositories'
+    request = urllib.request.Request(url)
+    response = urllib.request.urlopen(request)
+    data = response.read().decode()
+    return data
