@@ -57,7 +57,7 @@ Once you are done writing your program, make sure to run it! ;)
 
 # Contributing! 🤝🤝🤝
 
-We would love the extra support! Feel free to open a pull request!
+We would love the extra support! Feel free to open a pull request! ***NEW UPDATES COMING SOON!***
 To start contributing to this repo, keep in mind, the main code is in the src/source.py and I will create an alike pull request to yours so I can
 update the __pycache__
 Also read the CONTRIBUTING.md page!
