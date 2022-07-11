@@ -143,3 +143,7 @@ def get_public_repo():
     response = urllib.request.urlopen(request)
     data = response.read().decode()
     return data
+
+#Print with a touch of fireworks
+def fireworks_print(string):
+    print("🎆 " + string + " 🎆")
