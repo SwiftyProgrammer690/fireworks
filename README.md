@@ -52,6 +52,7 @@ For now, it only has eighteen main capabilities, but you can make it better beca
 | `check_repo_tag(user, repo)` | Get a repositories tags |
 | `check_repo_topic(user, repo)` | Get a repositories topics |
 | `get_public_repo()` | Gets a list of random public repositories |
+| `fireworks_print(string)` | Prints with a touch of fireworks! Ex: `🎆 <WHAT YOU PRINT> 🎆` |
 
 Once you are done writing your program, make sure to run it! ;)
 
