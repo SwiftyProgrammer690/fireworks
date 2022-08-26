@@ -27,7 +27,7 @@ or, clone this in your local engine with `https://github.com/SwiftyProgrammer690
 Now that you have the necessary files to work with this project, let's see what it does!
 
 # Using it! ⚒⚒⚒
-
+ 
 For the functions below to work, put them inside a print statement!
 First at the beginning of your new python file, add `from src.source import *` to load the files for the package! (If that does not work, please use `pwd` and check where you are and `ls` to know where you should go with `cd`)
 For now, it only has eighteen main capabilities, but you can make it better because, after all, this is an open source project!
